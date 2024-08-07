@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao  meu perfil (Kaic da Silva)  😁
 
  <div>
-   <a href="https://github.com/BreadcrumbsKingetzu">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsKingetzu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsKingetzu&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Kingetzu">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kingetzu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingetzu&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
